@@ -6,7 +6,13 @@ class Program
     static void Main(string[] args)
     {
         FibonacciPrimos(10);
-        Console.WriteLine(SegundosAHora(3661));
+        Console.WriteLine("Ingresa la cantidad de segundos:");
+        int segs = int.Parse(Console.ReadLine());
+
+
+        string reloj = SegundosAHora(segs);
+
+        Console.WriteLine("El formato es: " + reloj);
     }
 
     static void FibonacciPrimos(int n)
@@ -37,6 +43,8 @@ class Program
         }
         return true;
     }
+
+
 
     // SEGUNDO EJERCICIO
 
