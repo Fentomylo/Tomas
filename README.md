@@ -18,7 +18,7 @@ Para esto sacamos las horas dividiendo entre 3600 (cantidad de segundos de una h
 
 <img width="1101" height="618" alt="image" src="https://github.com/user-attachments/assets/b43cefee-ef39-485e-8de3-d14f1e71b8b8" />
 
-## EXPLICACIÓN SEGUNDO EJERCICIO TALLER DE REPASO
+## EXPLICACIÓN EJERCICIO 2 DEL REPASO
 
 Bueno este ejemplo es básicamente la lotería, el jugador apuesta a un numero de 4 cifras y se compara con el ganador del sorteo, para esto en el Main definí el numero apostado (num), el numero ganador (resultado) y el valor de la apuesta que es de $1000, use strings para los números y así compararlos mas fácil.
 
