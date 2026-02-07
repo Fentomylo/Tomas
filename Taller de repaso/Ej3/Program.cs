@@ -68,30 +68,30 @@ class InvertedCaseMessage : AbstractSample
 
         Console.WriteLine("Invertido + May/Min invertidas: " + new string(chars));
     }
+}
 
-    class MessageManager
+class MessageManager
+{
+    public void Run()
     {
-        public void Run()
-        {
-            AbstractSample msg1 = new NormalMessage();
-            AbstractSample msg2 = new InvertedCaseMessage();
+        AbstractSample msg1 = new NormalMessage();
+        AbstractSample msg2 = new InvertedCaseMessage();
 
-            msg1.PrintMessage("Hola Mundo");
-            msg1.InvertMessage("Hola Mundo");
+        msg1.PrintMessage("Hola Mundo");
+        msg1.InvertMessage("Hola Mundo");
 
-            Console.WriteLine();
+        Console.WriteLine();
 
-            msg2.PrintMessage("Hola Mundo");
-            msg2.InvertMessage("Hola Mundo");
-        }
+        msg2.PrintMessage("Hola Mundo");
+        msg2.InvertMessage("Hola Mundo");
     }
+}
 
-    class Program
+class Program
+{
+    static void Main()
     {
-        static void Main()
-        {
-            MessageManager manager = new MessageManager();
-            manager.Run();
-        }
+        MessageManager manager = new MessageManager();
+        manager.Run();
     }
 }
