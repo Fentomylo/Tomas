@@ -86,7 +86,7 @@ class InvertedCaseMessage : AbstractSample
         }
     }
 
-    class Program
+  class Program
     {
         static void Main()
         {
