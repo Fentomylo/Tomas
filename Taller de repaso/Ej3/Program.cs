@@ -87,9 +87,13 @@ class MessageManager
     }
 }
 
+
 class Program
 {
     static void Main()
+
+  class Program
+
     {
         MessageManager manager = new MessageManager();
         manager.Run();
