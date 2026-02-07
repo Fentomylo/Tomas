@@ -1,10 +1,7 @@
 # Hola profe, aca como en las carpetas de cada ejercicio estan las explicaciones de cada uno, que fueron hechos con mi conocimiento basico de POO y tambien con la ayuda de chatgpt :) --> Tomás Vélez Duque
 
 
-<img width="1257" height="941" alt="image" src="https://github.com/user-attachments/assets/214798a3-b72f-4754-a4cc-b7c642e50d82" />
-
-
-
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a04ff89e-d06c-4339-ad81-3bd641d0892d" />
 
 ## EXPLICACIÓN EJERCICIO 1 DEL REPASO
 
