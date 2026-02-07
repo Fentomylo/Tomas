@@ -2,7 +2,7 @@
 
 class Program
 {
-    // PRIMER EJERCICIO
+
     static void Main(string[] args)
     {
         FibonacciPrimos(10);
@@ -12,9 +12,9 @@ class Program
 
         string reloj = SegundosAHora(segs);
 
-        Console.WriteLine("El formato es: " + reloj);
+        Console.WriteLine("queda así: " + reloj);
     }
-
+// PRIMER EJERCICIO
     static void FibonacciPrimos(int n)
     {
         int a = 0, b = 1;
