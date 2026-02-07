@@ -7,8 +7,8 @@ class Program
     {
         string num = "1234";
         // RESULTADO CON NUMEROS ALEATORIOS
-        // Random rnd = new Random();
-        // string resultado = rnd.Next(1000, 10000).ToString();
+        //Random rnd = new Random();
+        //string resultado = rnd.Next(1000, 10000).ToString();
         string resultado = "4321"; // numeros para probar
         int generico = 1000;
 
