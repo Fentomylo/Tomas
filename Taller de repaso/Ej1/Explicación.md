@@ -6,7 +6,7 @@ Con el ejercicio de la serie de Fibonacci, hice la función de Fibonacci primos 
 
 Use unas variables a y b para ir armando la serie sin complicarme demasiado, en cada vuelta del ciclo for que cree saco el numero actual y actualizo las variables para poder continuar con el siguiente. Antes de imprimirlo hay que revisar si es primo o no, porque el ejercicio solo pide mostrar los primos, si un numero no es primo directamente lo salta.
 
-Ahora, para resolver lo anterior hice la función de EsPrimo. Ahí saco los números que son menores que 2 y después reviso si el numero se puede dividir por otro y usamos la raíz cuadrada para no recorrer números de mas, por asi decirlo, es de una manera mas sencila.
+Ahora, para resolver lo anterior hice la función de EsPrimo. Ahí saco los números que son menores que 2 y después reviso si el numero se puede dividir por otro y usamos la raíz cuadrada para no recorrer números de mas, por asi decirlo, es de una manera mas sencilla.
 
 ## SEGUNDO: SEGUNDOS A FORMATO HH:MM:SS
 
